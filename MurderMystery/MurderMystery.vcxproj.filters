@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Detective.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Location.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MiscItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Murderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MurderItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NoteItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Suspect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Detective.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enums.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Location.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MiscItem.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Murderer.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MurderItem.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NoteItem.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Suspect.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="help.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="map.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="misc_item.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="murder_item.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="name.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="note.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="room.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="barn.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="cabin.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="cottage.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="library.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="office.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="oilrig.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="pyramid.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="road.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="temple.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="toilet.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="village.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="windmill.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

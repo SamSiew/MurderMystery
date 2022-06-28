@@ -1,0 +1,46 @@
+IMPORTANT RULES:
+----------------
+You have to specify <location name>, <item name> and <suspect name> exactly according to MAP 
+and SEARCH. The <location name> displayed in MAP must be exact string and 
+program will accept regardless of lowercase and uppercase character.
+
+COMMANDS AVAILABLE:
+-------------------
+GO <location name>
+-> Relocate detective to location provided in command.
+
+SEARCH <location name>
+-> Detective will search for item found in location and display in command the item found in location.
+    
+USE <item name>
+-> Detective will use item found in location and the item may be able to unlock a location which is locked.
+    
+GET <item name>
+-> Item will be added to detective inventory
+    
+DROP <item name>
+-> Item will be removes from detective inventory and added to location which detective is currently in.
+    
+EXAMINE <item name>
+-> Display description of item which includes name of item, is there a blood in it etc.
+    
+QUESTION <suspect name>
+-> Print background information of suspect.
+    
+ACCUSE <suspect name>
+-> End the game if a valid input for suspect is given
+-> If detective found murder weapon and accuse the correct killer, detective will be able to close case and win game. 
+    Otherwise, detective will lose when either one of the criteria is not met.
+    
+GATHER
+-> All suspect and detective in a map will be relocated to crime scene.
+    
+MAP
+-> A 2-D array of location will be shown to user.
+    
+HELP
+-> It will display all information from murderMysteryRules.txt
+    
+QUIT
+-> End the game without announcing winner or loser.
+-> The detective will be navigated to main menu.

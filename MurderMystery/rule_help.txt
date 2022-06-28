@@ -1,0 +1,19 @@
+                        
+                        +-------------------------+
+                        |  MURDER MYSTERY! RULES  |
+                        +-------------------------+
+
+GENERAL RULES:
+--------------
+As Detective ming walk into new crime scene, you remember steps to find real killer:
+-> The killer is among the suspect around crime scene.
+-> In a single game turn, you will only be able to execute an action such as search, go to location, collect item etc.
+-> You will have to find murder weapon in any of the location.
+-> You will have to question each suspect in same residence at the murder scene and you may encounter following suspects:
+    -> Two pair of suspects will alibi each other.
+    -> A suspect with no alibi but not a murderer.
+    -> Murderer will have a false alibi.
+-> Once you knows whose the murderer, you will have to gather all suspect into crime scene and accuse them.
+-> If your time limit run out or wrongly accuse killer and did not found murder weapon or wrongly accuse suspect as killer but correct murder weapon or 
+    correctly accuse suspect as killer but wrong murder weapon, you will lose.
+-> If you correctly accuse suspect as killer and correct murder weapon and time limit is still running, you will be able to close case and win.

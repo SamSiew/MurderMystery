@@ -1,0 +1,1 @@
+Gun;Drug;Katana;Rope;Lighter;Sword;Sniper;Mace;Hammer;Pensil;Pen;Axe;Bow;Club;Lance;Baseball;Blade;Golf;Saw;Skate;Dart;Cutter;Crowbar;Pole;

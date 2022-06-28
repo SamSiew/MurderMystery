@@ -1,0 +1,1 @@
+Cup;Bag;Bottle;Phone;Card;Tissue;Plastic;Cloth;Basket;Bowl;DVD;Cash;Key;Amulet;Crystal;Ring;Charm;Fork;Spoon;Potion;Elixir;Salt;Sugar;Chair;Table;Kettle;
